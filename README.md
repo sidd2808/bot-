@@ -23,11 +23,7 @@ Utilize your personal chat assistant/group manager to make the most out of Whats
 [Documentation Link](https://mybotsapp.com/documentation)
 
 
-## Tutorial
 
-Here's a tutorial to set up BotsApp on your own account in *less than 3 minutes.*
-
-[![Join WhatsApp Group](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://www.youtube.com/watch?v=tGrjEZ3roY0&ab_channel=BotsApp)
 
 ## Deployment
 
@@ -56,7 +52,7 @@ To follow this method, you will need to have docker installed on your machine an
 To host the bot on your own device using docker, follow the following steps on your terminal / command prompt -
 
 ```bash
-git clone https://github.com/BotsAppOfficial/BotsApp.git
+git clone https://github.com/sidd2808/bots.git
 cd BotsApp
 docker build -t botsapp .
 docker run --rm --name botsapp botsapp
@@ -71,22 +67,13 @@ To use this method, you will need ffmpeg, nodejs, npm installed on your device.
 To run the bot on your device manually, you can use the following commands -
 
 ```bash
-git clone https://github.com/BotsAppOfficial/BotsApp.git
+git clone https://github.com/sidd2808/bots.git
 cd BotsApp
 npm install
 npm start
 ```
 
 
-## Support and Discussion groups
-
-Feel free to post your queries or concerns on any of the discussion forums mentioned below:
-
-[![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/Gc8gNMoue2uHyd6xhFwvEP)
-
-[![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/BotsAppChat)
-
-[![Join Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://t.me/BotsAppOfficial)
 
 
 
@@ -123,4 +110,4 @@ Feel free to post your queries or concerns on any of the discussion forums menti
 ## Copyright & License
 - Copyright (C) 2021 - 2022 by [BotsAppOfficial](https://github.com/BotsAppOfficial)
 
-- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://github.com/BotsAppOfficial/BotsApp/blob/main/LICENSE)
+- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://github.com/sidd2808/bots/blob/main/LICENSE)
